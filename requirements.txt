@@ -1,0 +1,5 @@
+drissionpage~=4.1.1.2
+curl-cffi~=0.13.0
+python-dotenv~=1.1.1
+openai~=2.3.0
+tomli-w~=1.2.0
