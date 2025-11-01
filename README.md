@@ -82,7 +82,7 @@ pip install -r requirements.txt
    ```bash
    python BossJob/MainBossTask.py
    ```
-   或者直接运行BossJob下的MainBossJobTask文件。主目录下的MainTask文件将用作将来多个平台同时运行的入口，暂时不可用
+   或者直接运行BossJob下的MainBossTask文件。主目录下的MainTask文件将用作将来多个平台同时运行的入口，暂时不可用
 5. 程序将自动打开浏览器，进行扫码登录，并按照设定条件搜索职位
 6. 系统会通过 AI 分析每个职位与简历的匹配度，只对符合条件的职位进行操作
 7. 对于匹配的职位，程序会自动发送好友请求并在聊天中发送个性化自我介绍
